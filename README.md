@@ -2,7 +2,7 @@
 Dart ORM project
 
 GNU General Public License v3.0
-[license] (https://github.com/meloko/perseus/blob/master/LICENSE) ]
+[license] (https://github.com/meloko/perseus/blob/master/LICENSE)
 
 ## Usage
 
