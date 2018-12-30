@@ -1,8 +1,9 @@
 # perseus
 Dart ORM project
 
-GNU General Public License v3.0
-[license] (https://github.com/meloko/perseus/blob/master/LICENSE)
+GNU General Public License v3.0 [license]
+
+[license]: https://github.com/meloko/perseus/blob/master/LICENSE
 
 ## Usage
 
